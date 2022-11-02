@@ -1,12 +1,11 @@
 import './index.css'
-import Drawer from './components/Drawer'
 import Header from './components/Header'
+import Drawer from './components/Drawer'
 
 function App() {
   return (
     <>
-      <Header />
-      <Drawer />
+    <Drawer />
     </>
   )
 }
